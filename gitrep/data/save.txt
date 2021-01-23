@@ -1,0 +1,15 @@
+rep=0
+repMult=1
+turretTickMax=100
+bullet_speed=5
+turret_amount=0
+shield=50
+maxspeed=150
+minspeed=200
+bullet speed=50
+turrets=100
+turret speed=100
+shields=50
+rep multiplier=150
+meteor speed=69
+reset=0
